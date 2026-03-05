@@ -6,7 +6,8 @@
 - [ ] GitHub account
 - [ ] Gmail account
 - [ ] Medium.org account
-
+Join here:
+https://discord.gg/HuwkFyAF
 ## Course Requirements
 
 - Minimum **80% attendance**
